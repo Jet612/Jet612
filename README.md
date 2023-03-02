@@ -1,6 +1,6 @@
 ## Hello there! :wave:
 
-I am Jet, a Python-based programmer who codes Discord bots. You can find more information about me below. 
+I am Jet, a Python-based programmer who codes Discord bots. You can find more information about me below.
 
 #### Current Projects
 - [VALcord](https://valcord.xyz) (Discord Bot)
