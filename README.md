@@ -4,7 +4,7 @@ I am Jet, a Python-based programmer who codes Discord bots. You can find more in
 
 #### Current Projects
 - [VALcord](https://valcord.xyz) (Discord Bot)
-- [ValorantClientAPI](https://github.com/Jet612/VALORANT-Async-Client-API) (pypi package)
+- [ValorantClientAPI](https://github.com/Jet612/VALORANT-Async-Client-API) (PyPI package)
 
 #### Links
 - [Discord](https://discord.gg/mVXpvunBbF)
