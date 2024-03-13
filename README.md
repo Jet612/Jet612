@@ -3,8 +3,7 @@
 I am Jet, an independent developer who makes just about whatever I want.
 
 #### Current Projects
-- [On](https://onbot.xyz/) (General Purpose Discord Bot)
-- (Unmaintained) [valaw](https://github.com/Jet612/valaw) (Asynchronous API wrapper for VALORANT)(PyPI package)
+- [valaw](https://github.com/Jet612/valaw) (Asynchronous API wrapper for VALORANT)(PyPI package)
 - (Unmaintained) [ValorantClientAPI](https://github.com/Jet612/VALORANT-Async-Client-API) (Asynchronous API wrapper for VALORANT's client API)(PyPI package)
 
 #### Links
