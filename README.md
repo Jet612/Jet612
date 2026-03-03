@@ -8,4 +8,3 @@ I am Jet, an independent developer who makes just about whatever I want. Check o
 
 #### Links
 - [Discord](https://discord.gg/mVXpvunBbF)
-- [Linktr.ee](https://linktr.ee/jet612)
