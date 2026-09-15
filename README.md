@@ -1,10 +1,5 @@
 ## Hello there! :wave:
 
-I am Jet, an independent developer who makes just about whatever I want. Check out my website [MadeByJet.dev](https://madebyjet.dev)
+I am Jet, an independent developer who makes just about whatever I want.
 
-#### Current Projects
-- [valaw](https://github.com/Jet612/valaw) (Asynchronous API wrapper for VALORANT)(PyPI package)
-- [MadeByJet](https://madebyjet.dev) (Portfolio and app hub for things I make)
-
-#### Links
-- [Discord](https://discord.gg/mVXpvunBbF)
+Check out my website [MadeByJet.dev](https://madebyjet.dev) for things I'm currently working on!
